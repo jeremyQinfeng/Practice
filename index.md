@@ -1,5 +1,5 @@
-# section 1
+# Task 1
 
 My Introduction
 
-My name is Lin Qinfeng
+My name is Lin Qinfeng, Nice to Meet you
